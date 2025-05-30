@@ -5,6 +5,9 @@
 [submodule "morse"]
 	path = morse
 	url = https://github.com/cran/morse
+[submodule "morseDR"]
+	path = morseDR
+	url = https://github.com/cran/morseDR
 [submodule "rPBK"]
 	path = rPBK
 	url = https://github.com/cran/rPBK

@@ -8,6 +8,9 @@
 [submodule "morseDR"]
 	path = morseDR
 	url = https://github.com/cran/morseDR
+[submodule "morseTKTD"]
+	path = morseTKTD
+	url = https://github.com/cran/morseTKTD
 [submodule "rPBK"]
 	path = rPBK
 	url = https://github.com/cran/rPBK

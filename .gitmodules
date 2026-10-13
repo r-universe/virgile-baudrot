@@ -14,6 +14,3 @@
 [submodule "rPBK"]
 	path = rPBK
 	url = https://github.com/cran/rPBK
-[submodule "spacemodR"]
-	path = spacemodR
-	url = https://github.com/cran/spacemodR
